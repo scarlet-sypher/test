@@ -1,119 +1,258 @@
-# <div align="center">🚀 Hey there! I'm Ayush Jha</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+# <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Jha&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer+Journey;%F0%9F%8C%9F+Mastering+Frontend+%26+Backend;%F0%9F%94%A5+Building+The+Future+With+Code" alt="Typing Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **My Full Stack Journey**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+        <h3>🎯 Current Focus</h3>
+        <p><strong>Mastering the Complete Web Development Stack</strong></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300"/>
+        <h3>🚀 Mission</h3>
+        <p><strong>Building Scalable Full Stack Applications</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Advanced React Patterns & Microservices**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Python**
-- ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
-- 🎯 Goal: **Building solutions that make a difference**
+<img align="right" alt="Full Stack Development" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🔥 **What I'm Currently Learning:**
+- 🎨 **Frontend Mastery**: Advanced React Patterns, Next.js 14, TypeScript
+- ⚙️ **Backend Excellence**: Node.js, Express.js, RESTful APIs, GraphQL
+- 🗄️ **Database Management**: MongoDB, PostgreSQL, Redis
+- ☁️ **Cloud & DevOps**: AWS, Docker, CI/CD Pipelines
+- 🧪 **Testing**: Jest, Cypress, Unit & Integration Testing
+- 🏗️ **Architecture**: Microservices, Design Patterns, System Design
+
+### 🎯 **2024 Learning Goals:**
+- ✅ Master React & Next.js Ecosystem
+- 🔄 Build 5+ Full Stack Projects
+- 📱 Learn React Native for Mobile Dev
+- 🚀 Deploy Apps on Cloud Platforms
+- 🤝 Contribute to Open Source Projects
 
 <br clear="both">
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **GitHub Analytics**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Comprehensive GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scarlet-sypher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=E5E7EB"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scarlet-sypher&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=scarlet-sypher&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff6b6b"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scarlet-sypher&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scarlet-sypher&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=E5E7EB" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scarlet-sypher&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=00d9ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=00d9ff&sideNums=00d9ff" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scarlet-sypher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scarlet-sypher&theme=radical"/>
 </div>
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Arsenal**
-
-### **Frontend Magic** ✨
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,figma" />
-</div>
-
-### **Backend Wizardry** 🔮
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,php,apache" />
-</div>
-
-### **Database Mastery** 🗄️
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</div>
-
-### **DevOps & Tools** 🛠️
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,docker" />
-</div>
-
-### **Other Technologies** 🚀
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,photoshop" />
+  <img src="https://github-profile-trophy.vercel.app/?username=scarlet-sypher&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"> **Coding Activity**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Full Stack Technology Arsenal**
 
+### 🎨 **Frontend Universe**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scarlet-sypher&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=F59E0B&point=E5E7EB" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap,sass,figma,vite&theme=dark" />
+</div>
+
+### ⚙️ **Backend Powerhouse**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,php,laravel,graphql,postman&theme=dark" />
+</div>
+
+### 🗄️ **Database & Storage**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase&theme=dark" />
+</div>
+
+### ☁️ **DevOps & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,vercel,netlify,heroku&theme=dark" />
+</div>
+
+### 🛠️ **Development Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,ubuntu,bash,powershell&theme=dark" />
+</div>
+
+### 📱 **Additional Skills**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,photoshop,blender,unity&theme=dark" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"> **Connect With Me**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Advanced GitHub Metrics**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scarlet-sypher&custom_title=Ayush's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=c9d1d9&line=ff6b6b&point=00d9ff&area=true&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=scarlet-sypher&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=scarlet-sypher&theme=radical&hide_border=true&bg_color=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scarlet-sypher&theme=radical"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Learning Progress Tracker**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+        <br><strong>React.js</strong>
+        <br>🟢🟢🟢🟢🟡 85%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+        <br><strong>Node.js</strong>
+        <br>🟢🟢🟢🟡⚪ 75%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+        <br><strong>MongoDB</strong>
+        <br>🟢🟢🟢⚪⚪ 65%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+        <br><strong>Next.js</strong>
+        <br>🟢🟢🟡⚪⚪ 55%
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+        <br><strong>TypeScript</strong>
+        <br>🟢🟢🟢🟡⚪ 70%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+        <br><strong>Docker</strong>
+        <br>🟢🟢⚪⚪⚪ 45%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
+        <br><strong>AWS</strong>
+        <br>🟢🟡⚪⚪⚪ 35%
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48"/>
+        <br><strong>GraphQL</strong>
+        <br>🟢🟡⚪⚪⚪ 40%
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Full Stack Projects Showcase**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
+        <h4>🚀 E-Commerce Platform</h4>
+        <p><code>React + Node.js + MongoDB</code></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"/>
+        <h4>📱 Social Media App</h4>
+        <p><code>Next.js + PostgreSQL + Redis</code></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
+        <h4>🎮 Real-time Chat App</h4>
+        <p><code>Vue.js + Socket.io + Express</code></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Connect & Collaborate**
 
 <div align="center">
   <a href="https://linkedin.com/in/ayush-jha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ayush_jha" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=0d8bd9" alt="Twitter"/>
   </a>
   <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&color=5865F2" alt="Discord"/>
   </a>
   <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=CC0000" alt="YouTube"/>
+  </a>
+  <a href="mailto:ayush@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=C5221F" alt="Email"/>
   </a>
 </div>
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"> **Visitor Count & Snake Animation**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=scarlet-sypher&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/scarlet-sypher/scarlet-sypher/output/snake.svg" alt="Snake eating my contributions" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=scarlet-sypher&label=Profile%20Views&color=ff6b6b&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/scarlet-sypher?label=Followers&style=for-the-badge&color=00d9ff&labelColor=000000" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/scarlet-sypher?label=Total%20Stars&style=for-the-badge&color=ffdd00&labelColor=000000" alt="GitHub Stars"/>
 </div>
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> **Snake Game & Activity**
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+  <img src="https://raw.githubusercontent.com/scarlet-sypher/scarlet-sypher/output/snake.svg" alt="Snake eating my contributions"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
-  ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="24"> **"Code is like humor. When you have to explain it, it's bad." - Cory House**
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=%F0%9F%92%A1+%22The+best+way+to+predict+the+future+is+to+create+it.%22;%F0%9F%9A%80+Building+Tomorrow's+Web%2C+One+Line+at+a+Time;%F0%9F%A4+Let's+Connect+and+Build+Something+Amazing!" alt="Closing Message"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
