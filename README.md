@@ -234,27 +234,27 @@
           <a href="https://github.com/scarlet-sypher/CryBug" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B35&color=E85A2B"/>
           </a>
-          <a href="https://crybug-demo.vercel.app" target="_blank">
+          <!-- <a href="https://crybug-demo.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00D9FF&color=00B8D4"/>
-          </a>
+          </a> -->
         </div>
       </td>
       <td align="center" width="33%">
         <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200"/>
         <h3>🎙️ Podcast AI Recommender</h3>
-        <p><code>Next.js + AI/ML + OpenAI API + PostgreSQL</code></p>
+        <p><code>HTML + CSS + Javascript + Python</code></p>
         <p><em>Intelligent Podcast Discovery with AI-Powered Recommendations</em></p>
         <p><strong>🔥 Features:</strong> AI matching, Personalized feeds, Smart search</p>
         <div align="center">
           <a href="https://github.com/scarlet-sypher/podcast-ai-recommender" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B35&color=E85A2B"/>
           </a>
-          <a href="https://podcast-ai.vercel.app" target="_blank">
+          <!-- <a href="https://podcast-ai.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00D9FF&color=00B8D4"/>
-          </a>
+          </a> -->
         </div>
       </td>
-      <td align="center" width="33%">
+      <!-- <td align="center" width="33%">
         <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="200"/>
         <h3>🎮 Interactive Web Games</h3>
         <p><code>JavaScript + Canvas API + WebGL + CSS3</code></p>
@@ -268,7 +268,7 @@
             <img src="https://img.shields.io/badge/Play%20Now-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=4CAF50&color=388E3C"/>
           </a>
         </div>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -278,6 +278,8 @@
 </div>
 
 ---
+
+<!-- Comming soon!!!!!!!!!!!!!!!!!!!!!!111.................
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
@@ -313,7 +315,7 @@
 </div>
 
 ---
-
+-->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
   <h1>📱 CONNECT WITH ME 📱</h1>
@@ -380,18 +382,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
-  <h1>📊 WEEKLY DEVELOPMENT BREAKDOWN 📊</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=scarlet-sypher&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff" alt="WakaTime Stats"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
   <h1>🎯 CALL TO ACTION 🎯</h1>
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
 </div>
@@ -450,21 +440,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
-  <h1>🎵 CODING SOUNDTRACK 🎵</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
-</div>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ayush.jha.dev&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=true&bar_color=7c3aed&bar_color_cover=false" alt="Spotify Now Playing"/>
-</div>
-
-<div align="center">
-  <p><em>🎧 Currently vibing to some epic coding beats while crafting digital magic! 🎶</em></p>
-</div>
-
----
+<!-- Comming soon................1111111111111111111111111111111111111111.!!!!!!!!!!!!!!!!!!!!!!!111
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60">
@@ -474,16 +450,16 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/>
-  
+
   <p><strong>Love my work? Buy me a coffee to fuel more coding sessions! ☕</strong></p>
-  
+
   <a href="https://www.buymeacoffee.com/ayushjha" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00&color=F7931E"/>
   </a>
   <a href="https://github.com/sponsors/scarlet-sypher" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor%20Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA&color=DB61A2"/>
   </a>
-</div>
+</div> -->
 
 ---
 
