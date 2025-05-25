@@ -225,7 +225,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://ibb.co/VWL2wpBb" width="200"/>
+        <img src="bug.gif" width="200"/>
         <h3>🐛 CryBug</h3>
         <p><code>HTML + Tailwind + JavaScript + PHP + MySQL</code></p>
         <p><em>Advanced Bug Tracking and Task Management System</em></p>
